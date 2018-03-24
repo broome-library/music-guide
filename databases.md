@@ -46,6 +46,3 @@ These are the newpaper databasesavailable through the John Spoor Broome library 
 ## Historical Newspapers
 
 {% include "git+https://git.gitbook.com/broome-library/shared.git/snippets/historical-newspapers.md"  %}
-
-
-
