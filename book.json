@@ -1,0 +1,10 @@
+{
+    "description": "A JSBL Music Research Guide",
+    "structure":{
+        "readme":"intro.md"
+    },
+    "title":"Music Research Guide",
+    "variables": {
+        "librarian":"git+https://git.gitbook.com/broome-library/shared.git/contacts/lcarroll.md"        
+    }
+}
