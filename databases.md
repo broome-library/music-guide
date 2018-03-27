@@ -6,7 +6,7 @@
 
 > _Academic Search Premier_ contains indexing and abstracts for more than 8,300 journals, with full text for more than 4,500 of those titles. This database contains coverage across the disciplines including biology, chemistry, engineering, physics, psychology, history, religion & theology, and many more.
 
-### [America: History and Life](http://web.a.ebscohost.com/ehost/search/advanced?sid=2a898822-7163-4de7-a275-18d8c61c6562%40sessionmgr4004&vid=1&hid=4101)
+### [America: History and Life](http://summit.csuci.edu:2048/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=31h)
 
 > _"America: History and Life is the definitive index of literature covering the history and culture of the United States and Canada, from prehistory to the present. With indexing for 1,700 journals from as far back as 1910, this database is without question the most important bibliographic reference tool for students and scholars of U.S. and Canadian history."_ This database is helpful for American music history searches.
 
@@ -41,7 +41,6 @@ These are the newpaper databasesavailable through the John Spoor Broome library 
 * [Proquest Newspapers](http://summit.csuci.edu:2048/login?url=http://proquest.umi.com/pqdweb?RQT=306&TS=1058457987&DBId=G5#sform)
 * [Newsbank: Access World News](http://summit.csuci.edu:2048/login?url=http://infoweb.newsbank.com)
 * [Alt-Press Watch](http://summit.csuci.edu:2048/login?url=http://proquest.umi.com/pqdweb?RQT=306&TS=1058457987&DBId=14396#sform)
-* [LexisNexis Academic](http://summit.csuci.edu:2048/login?url=http://www.lexisnexis.com/us/lnacademic)
 
 ## Historical Newspapers
 
