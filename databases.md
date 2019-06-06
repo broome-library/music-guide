@@ -14,7 +14,7 @@
 
 > _"Classical Music Library is the world's largest multi-label database of Classical music recordings for listening and learning in libraries. This ever growing collection includes recordings from the world's greatest labels including Hyperion, Bridge Records, Sanctuary Classics, Artemis-Vanguard, Hänssler Classic, Vox and many more. Coverage includes music written from the earliest times \(e.g. Gregorian Chant\) to the present, including many contemporary composers. Repertoire ranges from vocal and choral music, to chamber, orchestral, solo instrumental, and opera."_
 
-### [Emerald](http://summit.csuci.edu:2048/login?url=http://www.emeraldinsight.com/ft)
+### [Emerald](https://www-emeraldinsight-com.summit.csuci.edu/)
 
 > _"Founded in 1967 as an offshoot of the University of Bradford, Emerald Group Publishing has become the world’s leading scholarly publisher of journals and books in business and management with a strong and growing presence in disciplines including LIS, social sciences, engineering, linguistics and audiology."_
 
