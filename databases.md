@@ -36,7 +36,7 @@
 
 ## Newspapers
 
-These are the newpaper databasesavailable through the John Spoor Broome library that contain current news.
+These are the newspaper databases available through the John Spoor Broome Library that contain current news.
 
 * [ProQuest US Newsstream](https://search-proquest-com.summit.csuci.edu/usnews)
 * [Newsbank: Access World News](http://summit.csuci.edu:2048/login?url=http://infoweb.newsbank.com)
