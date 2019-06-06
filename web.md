@@ -28,10 +28,6 @@
 
 > _"DDM is an international database of bibliographic records for completed dissertations and new dissertation topics in the fields of musicology, music theory, and ethnomusicology, as well as in related musical, scientific, and humanistic disciplines. Currently containing over 14,000 records, including the corrected and updated contents of all earlier printed editions of Doctoral Dissertations in Musicology and supplements contributed from musicological centers throughout the world, the database is fully searchable."_
 
-## [Minor Music](http://minormusicllc.com/)
-
-> A blog site for comprehensive music education
-
 ## [Music Theory Online](http://www.mtosmt.org/index.php)
 
 > A journal of criticism from the Society for Music Theory, Music Theory Online is peer reviewed and is indexed in RILM \(International Repertory of Music Literature\), Music Index, and other periodical indexes.The electronic journal includes full text articles, article commentaries, essays, and reviews regarding the study of professional music theory.
