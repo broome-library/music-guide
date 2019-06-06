@@ -1,6 +1,6 @@
 # Web Resources
 
-## [All Music](http://www.allmusic.com/)
+## [AllMusic](http://www.allmusic.com/)
 
 > _"The AllMusic website was created in 1995 as a place for music fans to indulge their passion. Whether you're visiting AllMusic to look up an out-of-print recording, to get our take on a new release, or simply to explore the world of music and see where it may lead, you've come to the right spot."_
 
