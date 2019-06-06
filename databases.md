@@ -38,7 +38,7 @@
 
 These are the newpaper databasesavailable through the John Spoor Broome library that contain current news.
 
-* [Proquest Newspapers](http://summit.csuci.edu:2048/login?url=http://proquest.umi.com/pqdweb?RQT=306&TS=1058457987&DBId=G5#sform)
+* [Proquest Newspapers](https://search-proquest-com.summit.csuci.edu/usnews)
 * [Newsbank: Access World News](http://summit.csuci.edu:2048/login?url=http://infoweb.newsbank.com)
 * [Alt-Press Watch](http://summit.csuci.edu:2048/login?url=http://proquest.umi.com/pqdweb?RQT=306&TS=1058457987&DBId=14396#sform)
 
