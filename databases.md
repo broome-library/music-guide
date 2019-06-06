@@ -42,6 +42,5 @@ These are the newspaper databases available through the John Spoor Broome Librar
 * [Newsbank: Access World News](http://summit.csuci.edu:2048/login?url=http://infoweb.newsbank.com)
 * [ProQuest Alt-Press Watch](http://summit.csuci.edu:2048/login?url=http://proquest.umi.com/pqdweb?RQT=306&TS=1058457987&DBId=14396#sform)
 
-## Historical Newspapers
 
 {% include "git+https://git.gitbook.com/broome-library/shared.git/snippets/historical-newspapers.md"  %}
