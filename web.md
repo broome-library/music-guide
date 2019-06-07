@@ -20,7 +20,7 @@
 
 > BMI collects license fees on behalf of songwriters, composers and music publishers and distributes them as royalties to those members whose works have been performed.
 
-## [Christopher A. Reynolds Collection of Women’s Song, 1850-1950](https://merritt.cdlib.org/m/ark:%252F13030%252Fm5br8stc)
+## [Christopher A. Reynolds Collection of Women’s Song, 1890-1930](https://merritt.cdlib.org/m/ark:%2F13030%2Fm5br8stc)
 
 > This resource, written by a Distinguished Professor of Music at University of California, Davis, contains data such as number of songs, names, and publishers of women song writers.
 
