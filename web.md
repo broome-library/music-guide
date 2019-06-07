@@ -20,6 +20,10 @@
 
 > BMI collects license fees on behalf of songwriters, composers and music publishers and distributes them as royalties to those members whose works have been performed.
 
+## [Christopher A. Reynolds Collection of Women’s Song, 1850-1950](https://merritt.cdlib.org/m/ark:%252F13030%252Fm5br8stc)
+
+> This resource, written by a Distinguished Professor of Music at University of California, Davis, contains data such as number of songs, names, and publishers of women song writers.
+
 ## [Culture Catch](http://culturecatch.com/vidcast)
 
 > _"CultureCatch.com has over 160 half-hour interviews with today's seminal artists in film, theater, music and literature. Here you'll find in-depth interviews with smart culture individuals dissecting art, comedy, fashion, film, music, politics, television, theater, even cooking."_
@@ -52,7 +56,7 @@
 
 > _"Holding over 2,500 historical and contemporary musical instruments from all over the world, the Stearns Collection of Musical Instruments is one of the largest accumulations of such artifacts housed in a North American university. Known internationally as a unique collection, it is not only a precious heritage from the past, but also a rich resource for musical, educational, and cultural needs of the present and future."_
 
-## [Women Song Composers: A Listing of Songs Published in the United States and England, ca. 1890-1930](http://musdra.ucdavis.edu/people/reynolds/Women_Songs_Home.html)
+## 
 
 > This resource, written by a music student at University of California, Davis, contains data such as number of songs, names, and publishers of women song writers.
 
